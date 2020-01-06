@@ -1,0 +1,21 @@
+nav {
+    display: inline-block;
+    text-decoration: none;
+}
+
+footer {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.topRight {
+    float: right;
+}
+
+.bottomRight {
+    float: right;
+}
+
+form {
+    justify-content: center;
+}
