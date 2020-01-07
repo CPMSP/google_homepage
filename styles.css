@@ -1,21 +1,18 @@
-nav {
-    display: inline-block;
-    text-decoration: none;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
-footer {
-    display: inline-block;
-    text-decoration: none;
-}
-
-.topRight {
-    float: right;
-}
-
-.bottomRight {
-    float: right;
+li {
+    display: inline;
 }
 
 form {
-    justify-content: center;
+    text-align: center;
+}
+
+.logo {
+    display: block;
+    margin: auto;
 }
